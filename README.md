@@ -14,7 +14,7 @@ npm install
 
 #### Running
 
-Run this to run it in browser 
+To run it in browser 
 ```
 ionic serve
 ```
