@@ -25,4 +25,4 @@ ionic run android
 ionic run ios
 ```
 
-Please see [http://ionicframework.com/docs/guide/testing.html](http://ionicframework.com/docs/guide/testing.html) to start running.
+Please see [Ionic Guide](http://ionicframework.com/docs/guide/) for more explanation.
