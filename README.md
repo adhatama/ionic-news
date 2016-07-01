@@ -4,7 +4,7 @@ The news data are taken from [New York Times API](https://developer.nytimes.com/
 
 #### Installation
 ```
-npm install -g ionic
+npm install -g cordova ionic
 ```
 
 Go to root project folder and do
